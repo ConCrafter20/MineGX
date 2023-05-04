@@ -1,0 +1,97 @@
+        
+
+        _____             _     _   _ _     _____ _    _  _____ 
+        |  __ \           | |   | | (_) |   / ____| |  | |/ ____|
+        | |__) |__ _ _ __ | |__ | |_ _| | _| |  __| |__| | |  __ 
+        |  _  // _` | '_ \| '_ \| __| | |/ / | |_ |  __  | | |_ |
+        | | \ \ (_| | |_) | | | | |_| |   <| |__| | |  | | |__| |
+        |_|  \_\__,_| .__/|_| |_|\__|_|_|\_\\_____|_|  |_|\_____|
+                    | |                                          
+                    |_|                                                                        
+      
+                                presents
+      
+      
+                      __  __ _             _______   __
+                     |  \/  (_)           / ____\ \ / /
+                     | \  / |_ _ __   ___| |  __ \ V / 
+                     | |\/| | | '_ \ / _ \ | |_ | > <  
+                     | |  | | | | | |  __/ |__| |/ . \ 
+                     |_|  |_|_|_| |_|\___|\_____/_/ \_\
+                                   
+                                   
+                                   
+                                                      
+      
+      
+ 
+                                           
+ ____                  _     _   _         
+|    \ ___ ___ ___ ___|_|___| |_|_|___ ___ 
+|  |  | -_|_ -|  _|  _| | . |  _| | . |   |
+|____/|___|___|___|_| |_|  _|_| |_|___|_|_|
+                        |_|                
+...............................................................................
+
+Hey this is a random project that i wanted to try out and learn how to cade a bit better
+but it ended up as a whole new project. I play a lot of Minecraft and i wanted to make a
+Minecraft themed Opera GX Mod i hope that this is goining to look cool and hope that you
+guys have a nice day! Bye!
+                              
+ _____           _ _ _       
+|     |___ ___ _| |_| |_ ___ 
+|   --|  _| -_| . | |  _|_ -|
+|_____|_| |___|___|_|_| |___|
+...............................................................................
+
+The credits goes to:
+
+Shalz (on YouTube), awesome Minecraft content creator that suggested Opera GX to me!
+The Opera Team for creating the sample Mod and bringing Mods to me!
+And to everyone that downloads this and supports me
+                                                              
+ __    _                         
+|  |  |_|___ ___ ___ ___ ___ ___ 
+|  |__| |  _| -_|   |  _| -_|_ -|
+|_____|_|___|___|_|_|___|___|___|
+...............................................................................
+               
+MIT License
+
+Copyright (c) 2023 Raphael Wegmann
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+                       
+ _____       _         
+|  |  |_ _ _| |___ ___ 
+|    -| | | . | . |_ -|
+|__|__|___|___|___|___|
+...............................................................................
+                       
+Kudos to Shalz, for being a cool creator
+Kudos to the Opera Theme, for creating the best gaming brwser out there
+
+ _____ _       ___ ___ 
+|   __| |_ _ _|  _|  _|
+|__   |  _| | |  _|  _|
+|_____|_| |___|_| |_|  
+...............................................................................
+                       
+Please don't blame me for my bad English i am actually German. :D
+You can direct message me on Discord: RaphtikGHG#4951
